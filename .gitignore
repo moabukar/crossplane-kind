@@ -3,3 +3,5 @@
 **aws-credentials.txt
 **.pem
 **.crt
+
+**/azure-credentials.json
