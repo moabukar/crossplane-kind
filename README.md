@@ -2,6 +2,9 @@
 
 This local lab provides a fully automated way to set up a local Kubernetes cluster using Kind and install Crossplane via Helm.
 
+- [Crossplane on AWS](./aws/README.md)
+- [Crossplane on Azure](./azure/README.md)
+
 ## Prerequisites
 
 Ensure you have the following installed on your system:
