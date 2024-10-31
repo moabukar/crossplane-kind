@@ -1,2 +1,5 @@
 .env
 .DS_Store
+**aws-credentials.txt
+**.pem
+**.crt
